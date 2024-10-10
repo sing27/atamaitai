@@ -1,6 +1,8 @@
 # imageCompression 可自动无损压缩图片的python脚本
 脚本使用Pillow处理压缩, **当前脚本只支持jpg,png格式的，后续继续完善**
 
+https://github.com/liangxiaobo/imageCompression
+
 脚本执行示例：
 ```
 test.py [-i <imgs>] [-q <quality>] [-s <subsampling>] [-j <jpga>] [-d <dir>]
